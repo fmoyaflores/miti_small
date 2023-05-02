@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "place_genome_on_tree"
 version = "0.1.0"
-description = "scripts used to build a tree for the transposon library paper"
+description = "scripts used to build a tree for a set of genomes and place a new genome on the tree"
 authors = ["Sunit Jain"]
 license = "MIT"
 readme = "README.md"
