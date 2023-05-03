@@ -73,6 +73,7 @@ query_taxid,genome_accession,genome_name,genome_taxid,assembly_level,assembly_st
 84109,GCF_900450505.1,Slackia exigua,84109,Contig,current,51765_F02,representative genome,2,2094872,1,100.0,2102748,2102748,0,1051374.0
 84112,GCF_021378605.1,Eggerthella lenta,84112,Complete Genome,current,ASM2137860v1,representative genome,2,3464122,1,30.0,3467966,3467966,0,1733983.0
 88431,GCF_001404635.1,Dorea longicatena,88431,Scaffold,current,13414_6#35,representative genome,58,138924,7,100.0,3033150,3031081,2069,52260.01724137931
+89014,GCF_015669135.1,Blautia luti,89014,Scaffold,current,ASM1566913v1,representative genome,75,125887,10,47.9,3736625,3736428,197,49819.04
 89153,GCF_005844135.1,[Clostridium] hylemonae,89153,Scaffold,current,ASM584413v1,representative genome,56,148989,10,49.7,3794810,3793913,897,67748.44642857143
 100886,GCF_902362575.1,Catenibacterium mitsuokai,100886,Scaffold,current,MGYG-HGUT-00026,representative genome,196,27326,30,10.0,2532364,2527399,4965,12894.892857142857
 105841,GCF_020181435.1,Anaerostipes caccae,105841,Complete Genome,current,ASM2018143v1,representative genome,1,3284789,1,332.0,3284789,3284789,0,3284789.0
