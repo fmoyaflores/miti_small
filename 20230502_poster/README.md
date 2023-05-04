@@ -1,5 +1,8 @@
 # MITI 2023 Poster
 
+- [Circular tree with background colored by phyla](data/generated/prune_tree/20230502_MITI_Genomes_Tree.circular_w_bgcolor.pruned.pdf)
+- [Linear tree with background colored by phyla](data/generated/prune_tree/20230502_MITI_Genomes_Tree.rect_w_bgcolor.pruned.pdf)
+- [Linear tree with no background](data/generated/prune_tree/20230502_MITI_Genomes_Tree.rect_no_color.pruned.pdf)
 ## Environment
 
 1. Create a new virtual environment. Here is an example command using conda:
