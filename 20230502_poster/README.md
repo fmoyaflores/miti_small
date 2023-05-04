@@ -4,6 +4,17 @@
 - [Linear tree with background colored by phyla](data/generated/prune_tree/20230502_MITI_Genomes_Tree.rect_w_bgcolor.pruned.pdf)
 - [Linear tree with no background](data/generated/prune_tree/20230502_MITI_Genomes_Tree.rect_no_color.pruned.pdf)
 
+## Table of Contents
+
+- [MITI 202305 Poster](#miti-202305-poster)
+  - [Table of Contents](#table-of-contents)
+  - [Environment](#environment)
+  - [How to generate the tree?](#how-to-generate-the-tree)
+    - [Download the genomes](#download-the-genomes)
+    - [Place genomes on the GTDB tree](#place-genomes-on-the-gtdb-tree)
+    - [Prune the tree](#prune-the-tree)
+  - [Metadata](#metadata)
+
 ## Environment
 
 1. Create a new virtual environment. Here is an example command using conda:
