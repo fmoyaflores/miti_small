@@ -3,6 +3,7 @@
 - [Circular tree with background colored by phyla](data/generated/prune_tree/20230502_MITI_Genomes_Tree.circular_w_bgcolor.pruned.pdf)
 - [Linear tree with background colored by phyla](data/generated/prune_tree/20230502_MITI_Genomes_Tree.rect_w_bgcolor.pruned.pdf)
 - [Linear tree with no background](data/generated/prune_tree/20230502_MITI_Genomes_Tree.rect_no_color.pruned.pdf)
+
 ## Environment
 
 1. Create a new virtual environment. Here is an example command using conda:
@@ -20,8 +21,8 @@ conda activate trees
 3. Install the required packages:
 
 ```bash
-git clone REPO SOURCE
-cd paper_transposonLibrary
+git clone git@github.com:FischbachLab/miti_small.git
+cd miti_small/20230502_poster
 pip install -U .
 conda install -c conda-forge ncbi-datasets-cli
 ```
