@@ -1,4 +1,4 @@
-# MITI 2023 Poster
+# MITI 202305 Poster
 
 - [Circular tree with background colored by phyla](data/generated/prune_tree/20230502_MITI_Genomes_Tree.circular_w_bgcolor.pruned.pdf)
 - [Linear tree with background colored by phyla](data/generated/prune_tree/20230502_MITI_Genomes_Tree.rect_w_bgcolor.pruned.pdf)
