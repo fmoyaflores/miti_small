@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "integrate-abricate-immedb"
+version = "0.1.0"
+description = "Implements Daisy's algorithm to integrate results from Abricate and ImmeDB blast runs"
+authors = ["Sunit Jain <mail4sunit@gmail.com>"]
+readme = "README.md"
+packages = [{include = "integrate_abricate_immedb"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.3"
+cloudpathlib = {extras = ["s3"], version = "^0.15.1"}
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
+ipykernel = "^6.24.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
